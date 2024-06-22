@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This project focuses on implementing and tuning the REINFORCE algorithm and the Actor-Critic method for both discrete and continuous action spaces in the Cartpole problem.
+This project focuses on implementing and tuning the REINFORCE algorithm and the Actor-Critic method to continuous action spaces in the Cartpole problem.
 
 ## Table of Contents
 
